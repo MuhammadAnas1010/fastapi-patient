@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 45,
+        "gender": "Male",
+        "diagnosis": "Hypertension"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 34,
+        "gender": "Female",
+        "diagnosis": "Diabetes Type 2"
+    },
+    {
+        "id": 3,
+        "name": "Ahmed Khan",
+        "age": 50,
+        "gender": "Male",
+        "diagnosis": "Asthma"
+    },
+    {
+        "id": 4,
+        "name": "Emily Johnson",
+        "age": 29,
+        "gender": "Female",
+        "diagnosis": "Thyroid Disorder"
+    },
+    {
+        "id": 5,
+        "name": "Carlos Reyes",
+        "age": 40,
+        "gender": "Male",
+        "diagnosis": "Chronic Back Pain"
+    },
+    {
+        "id": 6,
+        "name": "Fatima Ali",
+        "age": 37,
+        "gender": "Female",
+        "diagnosis": "Migraine"
+    },
+    {
+        "id": 7,
+        "name": "Michael Brown",
+        "age": 55,
+        "gender": "Male",
+        "diagnosis": "Coronary Artery Disease"
+    },
+    {
+        "id": 8,
+        "name": "Sara Patel",
+        "age": 31,
+        "gender": "Female",
+        "diagnosis": "Depression"
+    },
+    {
+        "id": 9,
+        "name": "Ali Raza",
+        "age": 42,
+        "gender": "Male",
+        "diagnosis": "Arthritis"
+    },
+    {
+        "id": 10,
+        "name": "Lisa Wong",
+        "age": 27,
+        "gender": "Female",
+        "diagnosis": "Anemia"
+    },
+    {
+        "id": 0,
+        "name": "string",
+        "age": 120,
+        "gender": "male",
+        "diagnosis": "string"
+    }
+]

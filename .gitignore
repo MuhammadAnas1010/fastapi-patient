@@ -1,0 +1,5 @@
+__pycache__/
+fastapi_git/
+*.pyc
+.env
+uploads/
