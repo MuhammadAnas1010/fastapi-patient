@@ -37,7 +37,6 @@ fastapi_git/
 ## 🔗 API Endpoints
 
 ### 📘 Get Patient by ID
-```http
 GET /patients/{patient_id}
 Description: Returns full patient record by ID
 Example: /patients/2
